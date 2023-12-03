@@ -1,0 +1,9 @@
+.container {
+  min-height: 100vh;
+  display: grid;
+  align-items: center;
+}
+img {
+  height: 50vh;
+  width: 500px;
+}
